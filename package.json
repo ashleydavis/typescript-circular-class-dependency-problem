@@ -1,0 +1,22 @@
+{
+  "name": "typescript-circular-class-dependency-problem",
+  "version": "1.0.0",
+  "description": "This repo demonstrates a problem with TypeScript.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleydavis/typescript-circular-class-dependency-problem.git"
+  },
+  "keywords": [],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "homepage": "https://github.com/ashleydavis/typescript-circular-class-dependency-problem",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "8.0.28",
+    "ts-node": "3.3.0",
+    "typescript": "2.5.2"
+  }
+}
